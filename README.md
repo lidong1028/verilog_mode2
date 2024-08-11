@@ -15,4 +15,4 @@ step2: 执行./setup.sh,显示下面结果即安装成功
 
 * 使用指导书
 
-见https://mp.csdn.net/mp_blog/creation/editor/140082245
+见doc/Verilog-mode-v2指导书.docx
